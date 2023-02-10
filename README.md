@@ -1,2 +1,2 @@
 # Preview
-![alt text](https://github.com/Huzaifakamran/Python-Email/blob/main/images/email.png?raw=true)
+![alt text](https://github.com/Huzaifakamran/Python-Email/blob/main/image/email.png?raw=true)
