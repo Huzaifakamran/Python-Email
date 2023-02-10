@@ -1,2 +1,2 @@
 # Preview
-https://github.com/Huzaifakamran/Python-Email/blob/main/image/email.png
+https://raw.githubusercontent.com/Huzaifakamran/Python-Email/main/image/email.png
